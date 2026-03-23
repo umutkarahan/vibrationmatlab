@@ -25,3 +25,4 @@ set(gca,'fontsize',16)
 xlabel('time (s)');
 ylabel('displacement IRF (m/Ns)');
 
+%% function
