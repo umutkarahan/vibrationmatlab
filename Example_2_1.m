@@ -25,7 +25,3 @@ set(gca,'fontsize',16)
 xlabel('time (s)');
 ylabel('displacement IRF (m/Ns)');
 
-
-*VWRITE,mode_data(1,1),mode_data(1,2),mode_data(1,3),mode_data(1,4),mode_data(1,5),mode_data(1,6),mode_data(1,7),mode_data(1,8),mode_data(1,9),mode_data(1,10),mode_data(1,11),mode_data(1,12),mode_data(1,13),mode_data(1,14),mode_data(1,15),mode_data(1,16),mode_data(1,17),mode_data(1,18),mode_data(1,19)                       
-%16.8G%16.8G%16.8G%16.8G%16.8G%16.8G%16.8G%16.8G%16.8G%16.8G%16.8G%16.8G%16.8G%16.8G%16.8G%16.8G%16.8G%16.8G%16.8G
-*CFCLO
